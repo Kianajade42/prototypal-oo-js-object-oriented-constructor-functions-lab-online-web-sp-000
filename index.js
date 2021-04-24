@@ -4,4 +4,10 @@ class Scooter{
   this.color=color
   this.model=model
 }
+class Driver{
+  constructor(name,age,experience){
+    this.name=name
+    this.age=age
+    this.experience=experience
+}
 }
